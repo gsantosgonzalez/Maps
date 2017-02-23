@@ -1,3 +1,3 @@
 # Maps
 
-#Adaptado a PHP 7.
+Adaptado a PHP 7.
